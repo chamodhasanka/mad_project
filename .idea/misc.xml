@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/New/MobileHouseCard/app/src/main/res/layout/activity_order_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/New/MobileHouseCard/app/src/main/res/layout/activity_update.xml" value="0.25416666666666665" />
+        <entry key="..\:/New/MobileHouseCard/app/src/main/res/layout/activity_view_additems.xml" value="0.25416666666666665" />
+        <entry key="..\:/New/MobileHouseCard/app/src/main/res/layout/add_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/New/MobileHouseCard/app/src/main/res/layout/checkout.xml" value="0.25416666666666665" />
+        <entry key="..\:/New/MobileHouseCard/app/src/main/res/layout/pay_via_cards.xml" value="0.25416666666666665" />
+        <entry key="..\:/New/MobileHouseCard/app/src/main/res/layout/pay_via_cash.xml" value="0.25416666666666665" />
+        <entry key="..\:/New/MobileHouseCard/app/src/main/res/layout/payment_methods.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
